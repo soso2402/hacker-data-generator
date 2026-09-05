@@ -1,0 +1,12 @@
+# Hacker Data Generator - Requirements
+# Ce programme n'a aucune dépendance externe
+# Il utilise uniquement les modules standards de Python 3
+
+# Python 3.6+ requis
+# Aucun package externe nécessaire
+
+# Les modules utilisés sont tous dans la stdlib :
+# - sys (système)
+# - time (temps et délais)
+# - random (génération aléatoire)
+# - typing (annotations de type)
